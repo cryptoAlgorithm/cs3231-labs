@@ -1,8 +1,8 @@
-package cs3233.lab;
+package cs3233.lab.threePointOne;
 
 public class Square extends GeometricObject implements Colorable {
-    private final int s;
-    public Square(int size){
+    private final double s;
+    public Square(double size){
         s = size;
     }
 

@@ -1,4 +1,4 @@
-package cs3233.lab;
+package cs3233.lab.threePointOne;
 
 // Circle.java: The circle class that extends GeometricObject
 public class Circle extends GeometricObject {

@@ -1,4 +1,4 @@
-package cs3233.lab;
+package cs3233.lab.threePointOne;
 
 // GeometricObject.java: The abstract GeometricObject class
 public abstract class GeometricObject {

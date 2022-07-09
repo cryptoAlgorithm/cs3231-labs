@@ -1,4 +1,4 @@
-package cs3233.lab;
+package cs3233.lab.twoPointOne;
 
 public class BankAccount{
 
